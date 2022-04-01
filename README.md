@@ -28,8 +28,15 @@
 
 ### 深度学习
 
-- [感知机 · 四问四答](#1.1)
+- [感知机 · 四问四答](#2.1)
+- [DNN(深度神经网络) · 四问五答](#2.2)
+## <div id="2.1">感知机<div>
+ <img src="./Mind-mapping/perceptron.png" width = "700" height = "300" alt="图片名称" align=center />
 
-## <div id="1.1">感知机<div>
-
-[感知机 · 四问四答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&amp;mid=2247496611&amp;idx=1&amp;sn=f7f5cf9a6e7a725965effc868d778802&amp;chksm=902a417fa75dc86997b1fea6deadc7f1f288e5e1addad979f331a3bdf9d53c606739a996355f&token=1689859114&lang=zh_CN#rd)
+**点击这里查看文章:**
+- [感知机 · 四问四答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&amp;mid=2247496611&amp;idx=1&amp;sn=f7f5cf9a6e7a725965effc868d778802&amp;chksm=902a417fa75dc86997b1fea6deadc7f1f288e5e1addad979f331a3bdf9d53c606739a996355f&token=1689859114&lang=zh_CN#rd)
+## <div id="2.2">深度神经网络<div>
+![](./Mind-mapping/DNN.png)
+  
+**点击这里查看文章:**
+ - [DNN(深度神经网络) · 四问五答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&amp;mid=2247497030&amp;idx=1&amp;sn=aa999be2e266b91182395f621ce10eb1&amp;chksm=902a479aa75dce8cc6a675db60b409c8fa84652b2062cc75474d5802601eb4c9318a644ae839&token=1689859114&lang=zh_CN#rd) 
