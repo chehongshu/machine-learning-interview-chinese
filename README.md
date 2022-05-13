@@ -48,31 +48,31 @@
  - [KNN(K近邻) · 六问六答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247498203&idx=1&sn=806834f3f71e9cdb2985cff27c4bd667&chksm=902a4b07a75dc2114f3c726f4e9bf78ff56253aa37d22ed88f5fb54e1f260938ea65bf9ceaaf&token=1524783933&lang=zh_CN#rd) 
 
 ## <div id="1.2">逻辑回归（Logistic Regession，LR）<div>
-  <img src="./Mind-mapping/LR.png" width = "700" height = "450" alt="图片名称" align=center />
+  <img src="./Mind-mapping/LR.png"  alt="图片名称" align=center />
  
 **点击这里查看文章:**
  - [逻辑回归（Logistic Regession，LR） · 十问十答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247498273&idx=1&sn=d0fea9787cef5a7a1a333436c1581da3&chksm=902a48fda75dc1eb8269a8c8deb247e9049b46f23f340ec1f1e65ae294efbac6cca3cd3811ec&scene=178&cur_album_id=2230154439741456385#rd) 
 
 ## <div id="1.3">朴素贝叶斯<div>
-  <img src="./Mind-mapping/bayes.png" width = "700" height = "450" alt="图片名称" align=center />
+  <img src="./Mind-mapping/bayes.png" alt="图片名称" align=center />
  
 **点击这里查看文章:**
  - [朴素贝叶斯 · 十七问十七答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247498334&idx=1&sn=6b7231a57431ff25bb40b7954f00e33e&chksm=902a4882a75dc19477969de3f135dcff9e4b924225f501739113fee9df53bfc2efd1b8ab4455&scene=178&cur_album_id=2230154439741456385#rd) 
   
 ## <div id="1.4">决策树<div>
-  <img src="./Mind-mapping/tree.png" width = "700" height = "450" alt="图片名称" align=center />
+  <img src="./Mind-mapping/tree.png"  alt="图片名称" align=center />
  
 **点击这里查看文章:**
  - [决策树 · 二十一问二十一答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247498384&idx=1&sn=351571ec065885aacb4cc31a1806eb7b&chksm=902a484ca75dc15afc467aac44a93e9d7af95602820db713ff3c76e6b7c192e93f2f127298a1&scene=178&cur_album_id=2230154439741456385#rd) 
  
 ## <div id="1.5">支持向量机(SVM)<div>
-  <img src="./Mind-mapping/SVM.png" width = "700" height = "450" alt="图片名称" align=center />
+  <img src="./Mind-mapping/SVM.png"  alt="图片名称" align=center />
  
 **点击这里查看文章:**
  - [支持向量机(SVM) · 十四问十四答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247498579&idx=1&sn=f90996a450dfacb6b975d5603fa27344&chksm=902a498fa75dc099192bd746fd6b9470e0330555904c565cf2a8522e26817a52252fe78b3905&scene=178&cur_album_id=2230154439741456385#rd) 
   
 ## <div id="1.6">聚类<div>
-  <img src="./Mind-mapping/cluster.png" width = "700" height = "450" alt="图片名称" align=center />
+  <img src="./Mind-mapping/cluster.png"  alt="图片名称" align=center />
  
 **点击这里查看文章:**
  - [聚类 · 十三问十三答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247499244&idx=1&sn=db50b5be3ef86f41bb1f53d7de0032e8&chksm=902a4f30a75dc6264c4cabedb4034c73645fc586b8f41ea60cf8c245153bd9d494c278c34382&scene=178&cur_album_id=2230154439741456385#rd) 
