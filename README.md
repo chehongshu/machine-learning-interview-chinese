@@ -25,6 +25,16 @@
 ## 算法岗求职笔记列表
 ### 机器学习
 - [KNN(K近邻算法) · 六问六答](#1.1)
+- [逻辑回归（Logistic Regession，LR） · 十问十答](#1.2)
+- [朴素贝叶斯 · 十七问十七答](#1.3)
+- [决策树 · 二十一问二十一答](#1.4)
+- [支持向量机(SVM) · 十四问十四答](#1.5)
+- [聚类 · 十三问十三答](#1.6)
+- [降维 · 五问五答](#1.7)
+- [集成学习（一）通用概念 · 八问八答](#1.8)
+- [集成学习（二）随机森林RF · 十一问十一答](#1.9)
+- [集成学习（三）Adaboost · 四问四答](#1.10)
+- [集成学习（四）GBDT · 九问九答](#1.11)
 
 ### 深度学习
 
@@ -37,6 +47,8 @@
 **点击这里查看文章:**
  - [KNN(K近邻) · 六问六答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247498203&idx=1&sn=806834f3f71e9cdb2985cff27c4bd667&chksm=902a4b07a75dc2114f3c726f4e9bf78ff56253aa37d22ed88f5fb54e1f260938ea65bf9ceaaf&token=1524783933&lang=zh_CN#rd) 
  
+
+  
 ## <div id="2.1">感知机<div>
  <img src="./Mind-mapping/perceptron.png" width = "700" height = "300" alt="图片名称" align=center />
 
