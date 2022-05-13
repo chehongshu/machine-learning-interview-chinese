@@ -24,17 +24,25 @@
 
 ## 算法岗求职笔记列表
 ### 机器学习
-
+- [KNN(K近邻算法) · 六问六答](#1.1)
 
 ### 深度学习
 
 - [感知机 · 四问四答](#2.1)
 - [DNN(深度神经网络) · 四问五答](#2.2)
+
+## <div id="1.1">K近邻算法<div>
+  <img src="./Mind-mapping/KNN.png" width = "700" height = "450" alt="图片名称" align=center />
+ 
+**点击这里查看文章:**
+ - [KNN(K近邻) · 六问六答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247498203&idx=1&sn=806834f3f71e9cdb2985cff27c4bd667&chksm=902a4b07a75dc2114f3c726f4e9bf78ff56253aa37d22ed88f5fb54e1f260938ea65bf9ceaaf&token=1524783933&lang=zh_CN#rd) 
+ 
 ## <div id="2.1">感知机<div>
  <img src="./Mind-mapping/perceptron.png" width = "700" height = "300" alt="图片名称" align=center />
 
 **点击这里查看文章:**
 - [感知机 · 四问四答](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&amp;mid=2247496611&amp;idx=1&amp;sn=f7f5cf9a6e7a725965effc868d778802&amp;chksm=902a417fa75dc86997b1fea6deadc7f1f288e5e1addad979f331a3bdf9d53c606739a996355f&token=1689859114&lang=zh_CN#rd)
+ 
 ## <div id="2.2">深度神经网络<div>
 ![](./Mind-mapping/DNN.png)
   
